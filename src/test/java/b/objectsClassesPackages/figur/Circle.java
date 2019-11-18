@@ -15,7 +15,7 @@ public class Circle extends Figure {
     @Override
     public double getArea() {
         double radius = Math.sqrt(Math.pow(b[0] - a[0], 2) + (Math.pow(b[1] - a[1], 2)));
-        double circleArea =  new BigDecimal(Math.PI * (radius * radius)).setScale(2, RoundingMode.HALF_UP).doubleValue();
+        double circleArea = new BigDecimal(Math.PI * (radius * radius)).setScale(2, RoundingMode.HALF_UP).doubleValue();
         return circleArea;
     }
 

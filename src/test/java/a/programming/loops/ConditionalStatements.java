@@ -1,7 +1,5 @@
 package a.programming.loops;
 
-//Ввести с клавиатуры два числа, и вывести на экран минимальное из них.
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
