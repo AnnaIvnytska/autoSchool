@@ -1,0 +1,5 @@
+2019-11-18 17:53:50 INFO  Logging:13 - Private method was called
+2019-11-18 17:53:50 INFO  Logging:19 - Public method was called
+2019-11-18 17:54:34 ERROR Logging:17 - Test error log
+2019-11-18 17:54:34 INFO  Logging:13 - Private method was called
+2019-11-18 17:54:34 INFO  Logging:20 - Public method was called
